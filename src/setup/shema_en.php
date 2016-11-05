@@ -24,11 +24,11 @@ if ($updateManager->isInstall()){
 		<p>By default, the system creates an administrative user <i>admin</i>.
 		You need to install the new password and e-mail address on the account.
 		To do this, log in using login <i>admin</i>, password <i>admin</i> and go
-		to your <a href='/bos/#app=uprofile/ws/showws/'>user profile </a> to edit.</p>
+		to your <a href='/bos/#app=uprofile/wspace/ws/'>user profile </a> to edit.</p>
 
 		<h4>Basic configuration of the site</h4>
 		<p>
-		<a href='/bos/#app=user/board/showBoardPanel'>Control Panel</a> - is the
+		<a href='/bos/#app=bos/wspace/ws/'>Control Panel</a> - is the
 		main tool the site administrator. <br />
 
 		To set up the site and manage the content you want at least two tabs: <br />
